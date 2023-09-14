@@ -1,0 +1,182 @@
+@media only screen and (max-width:992px ){
+
+	.container
+	{
+		width:90%;
+		margin:0 auto;
+	}
+
+}
+@media only screen and (max-width :786px ){
+
+	.container
+	{
+		width:90%;
+		margin:0 auto;
+	}
+	.header-menu
+	{
+		flex-flow: column;
+	    align-items: flex-start;
+/*	    display: none;*/
+	}
+	.header-music
+	{
+		padding: 10px;
+	}
+	.variety-wrapper .detail-music-variety
+	{
+		width:100%;
+	}
+	.variety-wrapper
+	{
+		flex-flow: column;
+	}
+	.music-variety-header p
+	{
+		    width: 100%;
+    	font-size: 21px;
+	}
+	.header-wrapper .logo-name
+	{
+		width:70%;
+	}
+	.header-icon
+	{
+		width:30%;
+	}
+	.header-container
+	{
+		height: 80vh;
+	}
+	.header-music h2
+	{
+		font-size: 25px;
+   	 text-align: center;
+   		margin:0px;
+	}
+	.header-music .Music
+	{
+		width: 100%;
+    	margin-top: 25px;
+	}
+	.show-heading p
+	{
+		   width: 100%;
+  		  font-size: 30px;
+	}
+	.show-heading h3
+	{
+		    font-size: 39px;
+	}
+	.music-show-wraper
+	{
+		flex-flow: column;
+	}
+	.show-details
+	{
+		width:100%;
+		margin-bottom: 20px
+	}
+	.wave-icon-wrap
+	{
+		flex-flow: column;
+	}
+	.icon-wave-detail
+	{
+		width:100%;
+		margin-bottom: 20px
+	}
+	.footer-wrapper
+	{
+		flex-flow: column;
+	}
+	.footer-1
+	{
+		width:100%;
+		margin-bottom:35px
+	}
+	.footer-1 .logo-name h3
+	{
+		 font-size: 70px;
+		 text-align: center;
+	}
+	.footer-1 .logo-name p
+	{
+		font-size: 22px;
+   		 text-align: center;
+	}
+	.footer-template
+	{
+		padding:20px;
+	}
+	.footer-2 h1
+	{
+		font-size: 35px;
+ 	   text-align: center
+	}
+	.footer-2
+	{
+		width:100%;
+	}
+	.footer-3
+	{
+		width:100%;
+	}
+	.footer-3-warpper
+	{
+		flex-flow: column;
+	}
+	.img-footer-3
+	{
+		width: 100%;
+		    height: 35vh;
+	}
+	.footer-4
+	{
+		width:100%;
+	}
+	.close-menu
+	{
+		    background: #fff;
+	    width: 30px;
+	    height: 30px;
+	    top: 4px;
+	    right: 6px;
+	    position: absolute;
+	}
+	.close-icon-wrapp
+	{
+		    width: 32px;
+	    height: 30px;
+	    background: #fff;
+	    border: 1px solid #000;
+	    position: fixed;
+	    top: 4px;
+	    right: 6px;
+	    display: flex;
+	    align-items: center;
+	    justify-content: space-evenly;
+	    flex-flow: column;
+	}
+	.close-icon-wrapp span
+	{
+		width: 80%;
+	    height: 3%;
+	    border: 1px solid red;
+	    margin: 3px auto;
+	}
+	.header-menu ul
+	{
+		  flex-flow: column;
+	    position: absolute;
+	    align-items: baseline;
+	    background: red;
+	    width: 100%;
+	    height: 215px;
+	    left: 1%;
+	    top: 98%;
+	    display: none;
+	}
+
+}
